@@ -22,6 +22,8 @@ The demo allows you to:
 - Experience the quality and capabilities without any setup
 - Generate sample audio files to evaluate the results
 
+NOTE: The demo link is temporary and may change or be disabled at any time. You can also try our [colab](https://colab.research.google.com/drive/1iBxTDeyyeuNoaMBoVR3iTXDSrapbR_oc?usp=sharing), which is more stable.
+
 ## Installation
 
 ### Install from Source
@@ -184,9 +186,9 @@ By using VietVoice TTS, you agree to the following terms:
 ## Requirements
 
 - Python 3.7+
-- PyTorch
 - ONNX Runtime
 - pydub
+- soundfile
 - numpy
 
 ## License
