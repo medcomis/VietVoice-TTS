@@ -32,7 +32,7 @@ Since this package is not yet published on PyPI, you need to install it from sou
 
 ```bash
 # Clone the repository
-git clone https://github.com/nguyenvulebinh/VietVoice-TTS.git
+git clone https://github.com/medcomis/VietVoice-TTS.git
 cd VietVoice-TTS
 
 # Install with GPU support (recommended if you have CUDA)
