@@ -40,6 +40,12 @@ pip install -e ".[gpu]"
 
 # OR install with CPU support (for systems without GPU)
 pip install -e ".[cpu]"
+
+# install torch
+pip install torch
+
+# install ffmpeg also
+python install ffmpeg
 ```
 
 **Important**: You must choose either `[gpu]` or `[cpu]` - the base installation without extras will not include ONNX Runtime and will not work.
